@@ -1,0 +1,2 @@
+Prefix plugins/DNA2Protein/example
+Plugin DNA2Protein inputfile DNA.fasta outputfile protein.fasta
